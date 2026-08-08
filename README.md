@@ -56,19 +56,19 @@ including:
 
 ### Homepage
 
-![Homepage](screenshots/homepage.png)
+![Homepage](homepage.png)
 
 ### Destination Page
 
-![Destination Page](screenshots/destination-page.png)
+![Destination Page](destination-page.png)
 
 ### Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard](admin-dashboard.png)
 
 ### Mobile Experience
 
-![Mobile View](screenshots/mobile-view.png)
+![Mobile View](mobile-view.png)
 
 ## 🔗 Live Project
 
